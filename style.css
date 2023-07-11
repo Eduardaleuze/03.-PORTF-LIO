@@ -115,7 +115,7 @@
 #rua{
     color: #2C2C2C;	
     position: fixed;
-    font-size: 20px;
+    font-size: 18px;
     top: 260px;
     left: 455px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -124,9 +124,9 @@
 #email{
     color: #2C2C2C;	
     position: fixed;
-    font-size: 20px;
+    font-size: 18px;
     top: 260px;
-    left: 950px;
+    left: 890px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
 }
@@ -174,6 +174,7 @@
     opacity: 1;
 }
 
+
 .conhecimentos{
     color:#717D7E;
     position: fixed;
@@ -182,6 +183,8 @@
     top:75px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+
 
 .bloco3{
     color:#717D7E;
