@@ -1,4 +1,4 @@
-.bloco1 {
+.menu-nav {
     background-color:#505050;
     position: fixed;
     height: 100%;
@@ -95,7 +95,7 @@
 
 
 #nome{
-    color:#717D7E;
+    color:#505050;
     position: fixed;
     font-size: 100px;
     top: 60px;
@@ -104,7 +104,7 @@
     font-weight: bold;
 }
 #sobrenome{
-    color: #FA8072;	
+    color: #2C2C2C;	
     position: fixed;
     font-size: 100px;
     top: 60px;
@@ -113,7 +113,7 @@
     font-weight: bold;
 }
 #rua{
-    color: #717D7E;	
+    color: #2C2C2C;	
     position: fixed;
     font-size: 20px;
     top: 260px;
@@ -122,7 +122,7 @@
     font-weight: bold;
 }
 #email{
-    color: #FA8072;	
+    color: #2C2C2C;	
     position: fixed;
     font-size: 20px;
     top: 260px;
@@ -145,13 +145,22 @@
     height: 50px;
     top: 500px;
     left: 455px;
+    opacity: 0.6;
 }
+#insta-logo:hover{
+    opacity: 1;
+}
+
 #git-logo{
     position: fixed;
     width: 50px;
     height: 50px;
     top: 500px;
     left: 520px;
+    opacity: 0.6;
+}
+#git-logo:hover{
+    opacity: 1;
 }
 #linkedin-logo{
     position: fixed;
@@ -159,7 +168,12 @@
     height: 50px;
     top: 500px;
     left: 585px;
+    opacity: 0.6;
 }
+#linkedin-logo:hover{
+    opacity: 1;
+}
+
 .conhecimentos{
     color:#717D7E;
     position: fixed;
